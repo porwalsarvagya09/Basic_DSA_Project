@@ -180,41 +180,7 @@ int main() {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// EXPLANATION OF STUDENT MANAGEMENT SYSTEM PROJECT
 
 /*This program implements a student information system using linked lists and a stack. Here's an explanation of each part of the code:
 
